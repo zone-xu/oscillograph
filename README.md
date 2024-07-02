@@ -1,2 +1,2 @@
 # oscillograph
-一个PLC示波器
+数据采集，显示波形
